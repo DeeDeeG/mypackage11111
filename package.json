@@ -1,0 +1,18 @@
+{
+  "name": "mypackage11111",
+  "main": "./lib/mypackage11111",
+  "version": "0.0.0",
+  "description": "Henlo",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "mypackage11111:toggle"
+  },
+  "repository": "https://github.com/DeeDeeG/mypackage11111",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
